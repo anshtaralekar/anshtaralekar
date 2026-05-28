@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ansh Taralekar 
 
-<!--
-**anshtaralekar/anshtaralekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Telecommunication Engineering student passionate about embedded systems, IoT, communication technologies, antenna design, and AI-integrated hardware systems.
 
-Here are some ideas to get you started:
+## Domains
+- Embedded Systems
+- Internet of Things (IoT)
+- Antenna Design
+- AI Applications
+- Communication Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- Python
+- C
+- Verilog
+- Arduino
+- ESP32
+- Raspberry Pi
+- HFSS
+- MATLAB
+
+## Current Focus
+- Embedded AI Systems
+- Antenna Design & Simulation
+- Semiconductor & Communication Technologies
+- Hardware-Software Integration
+- Embedded Systems & IoT Development
+
+- ## Connect With Me
+- LinkedIn: (add later)
+- Email: anshtaralekar@gmail.com
