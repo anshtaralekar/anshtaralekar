@@ -27,5 +27,5 @@ Electronics and Telecommunication Engineering student passionate about embedded 
 - Embedded Systems & IoT Development
 
 - ## Connect With Me
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/ansh-taralekar/
 - Email: anshtaralekar@gmail.com
